@@ -1,0 +1,251 @@
+﻿Region,Data Provider,Model Type,Time Resolution,Location Resolution,Last Updated
+USA - ERCOT,REsurety,Dispatch,Hourly,Nodal,31-Jul-24
+USA - MISO,REsurety,Dispatch,Hourly,Nodal,31-Jul-24
+USA - NYISO,REsurety,Dispatch,Hourly,Nodal,31-Jul-24
+USA - ISONE,REsurety,Dispatch,Hourly,Nodal,31-Jul-24
+USA - PJM,REsurety,Dispatch,Hourly,Nodal,31-Jul-24
+USA - SPP,REsurety,Dispatch,Hourly,Nodal,31-Jul-24
+USA - CAISO,REsurety,Dispatch,Hourly,Nodal,31-Jul-24
+Afghanistan,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Albania,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Algeria,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+American Samoa (U.S.),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Andorra,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Angola,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Anguilla (U.K.),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Antigua and Barbuda,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Argentina,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Armenia,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Aruba,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Australia - North,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Austria,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Azerbaijan,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Azores (Portugal),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Bahamas,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Bahrain,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Bangladesh,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Barbados,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Belarus,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Belize,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Benin,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Bermuda (U.K.),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Bhutan,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+"Bolivia, Plurinational State of",UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Bonaire (Netherland),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Bosnia and Herzegovina,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Botswana,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+British Virgin Islands (U.K.),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Brunei Darussalam,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Bulgaria,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Burkina Faso,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Burundi,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Cambodia,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Cameroon,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Canary Islands (Spain),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Cape Verde,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Cayman Islands,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Central African Republic,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Chad,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Channel Islands (U.K),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+China (PRC and Hong Kong),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Colombia,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Comoros,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+"Congo, Democratic Republic of",UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+"Congo, Republic of",UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Cook Islands,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Costa Rica,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Côte d'Ivoire,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Croatia,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Cuba,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Curacao/Netherlands Antilles,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Cyprus,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Czech Republic,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Denmark,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Djibouti,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Dominica,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Dominican Republic,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Ecuador,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Egypt,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+El Salvador,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Equatorial Guinea,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Eritrea,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Estonia,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Eswatini,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Ethiopia,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Falkland Islands (U.K.),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Faroe Islands (Denmark),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Fiji,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+French Guiana,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+French Polynesia,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Gabon,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Gambia,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Georgia,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Ghana,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Gibraltar (U.K.),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Greenland,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Grenada,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Guadeloupe (France),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Guam,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Guatemala,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Guinea,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Guinea-Bissau,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Guyana,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Haiti,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Honduras,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Iceland,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Indonesia,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+"Iran, Islamic Republic of",UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Iraq,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Isle of Man (U.K.),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Israel,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Jamaica,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Jordan,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Kazakhstan,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Kenya,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Kiribati,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+"Korea (North), Democratic People's Republic of",UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Kosovo,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Kuwait,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Kyrgyzstan,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Lao People's Democratic Republic,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Latvia,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Lebanon,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Lesotho,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Liberia,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Libya,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Liechtenstein,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Lithuania,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Luxembourg,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Madagascar,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Madeira (Portugal),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Malawi,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Maldives,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Mali,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Malta,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Marshall Islands,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Martinique (France),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Mauritania,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Mauritius,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Mayotte (France),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Micronesia,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+"Moldova, Republic of ",UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Monaco,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Mongolia,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Montenegro,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Montserrat,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Morocco,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Mozambique,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Myanmar,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Namibia,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Nauru,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Nepal,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+New Caledonia (France),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+New Zealand,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Niger,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Nigeria,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Niue,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+"North Macedonia, Republic of",UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Northern Mariana Islands (U.S.),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Oman,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Pakistan,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Palau,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Palestinian Authority,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Panama,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Papua New Guinea,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Paraguay,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Peru,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Puerto Rico (U.S.),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Qatar,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Reunion (France),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Russian Federation,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Rwanda,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Saint Helena (U.K.),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Saint Kitts and Nevis,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Saint Lucia,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Saint Martin (France),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Saint Pierre and Miquelon (France),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Saint Vincent and Grenadines,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Samoa,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+San Marino,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Sao Tomé & Principe,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Saudi Arabia,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Senegal,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Serbia,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Seychelles,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Sierra Leone,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Singapore,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Sint Martin (Netherlands),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Slovak Republic,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Slovenia,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Solomon Islands,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Somalia,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+South Africa,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+South Sudan,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Sri Lanka,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Sudan,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Suriname,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Switzerland,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Syrian Arab Republic,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Taiwan (Chinese Taipei),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Tajikistan,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+"Tanzania, United Republic of",UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Thailand,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Timor-Leste,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Togo,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Tonga,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Trinidad and Tobago,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Tunisia,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Turkmenistan,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Turks and Caicos Islands (U.K.),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Tuvalu,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Uganda,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Ukraine,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+United Arab Emirates,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Uruguay,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Uzbekistan,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Vanatu,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+"Venezuela, Bolivarian Republic of",UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Viet Nam,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Virgin Islands (U.S.),UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Yemen,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Zambia,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Zimbabwe,UNFCCC,Heat Rate,Annual,Country,31-Jul-24
+Australia - Tasmania,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Australia - Victoria,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Australia - New South Wales,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Australia - Queensland,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Australia - South,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Australia - West,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Belgium,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Brazil,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Canada - AESO,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Canada - IESO,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Canada - EPE,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Canada - BCHYDRO,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Canada - HYDRO QUEBEC,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Chile,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Finland,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+France,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Germany,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Greece,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Hungary,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+India,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Ireland,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Italy,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Japan,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+"Korea (South), Republic of",WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Malaysia,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Mexico - SIN,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Netherlands,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Nicaragua,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Norway,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Philippines,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Poland,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Portugal,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Romania,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Spain,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Sweden,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+Turkey,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+United Kingdom,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+USA - WECC,WattTime,Statistical,Hourly,Zonal,31-Jul-24
+USA - SERC,WattTime,Statistical,Hourly,Zonal,31-Jul-24
