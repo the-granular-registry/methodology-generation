@@ -43,9 +43,9 @@ This specification outlines the methodology for assigning EAC IDs and GC IDs to 
 ### **GC ID Structure**
 
 * **Format:**\
-  `GC[Project_ID]-[`Timestamp`]-[EAC_ID]-[Energy_ID]`
+  `GC[Project_ID]-[Timestamp]-[EAC_ID]-[Energy_ID]`
 * **Example:**\
-  `GC101-`20240928T153045Z`-20003-0750000`
+  `GC101-20240928T153045Z-20003-0750000`
 
 ### **Components**
 
