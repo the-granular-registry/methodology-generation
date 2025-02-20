@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Project Impact Report
 
 This project impact report is crucial to the PEC framework. It provides a comprehensive overview of a renewable energy project's climate, community, and conservation attributes. This report is essential because it allows potential buyers of PECs to understand the broader impacts of the projects they support beyond just the avoided emissions.
