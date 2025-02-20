@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Community Impact and Social Justice
 
 We integrate social equity and community benefits into PECs to ensure CFE projects deliver broader social value. Our approach encompasses a comprehensive matrix to quantify the following attributes, promoting social justice, economic inclusion, and equitable development:

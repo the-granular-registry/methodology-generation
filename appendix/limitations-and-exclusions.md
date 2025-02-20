@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Limitations and Exclusions
 
 This governance framework does not extend to:
