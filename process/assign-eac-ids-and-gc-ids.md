@@ -10,12 +10,12 @@ This specification outlines the methodology for assigning EAC IDs and GC IDs to 
 
 * Represents 1.0 MWh of renewable energy generated.
 * Assigned a unique **EAC ID**.
-* Can be composed of whole, remainder, and filler energy records that sum to 1.0 MWh.
+* Can comprise whole, remainder, and filler energy records that sum to 1.0 MWh.
 
 **Power Emissions Certificate (GC):**
 
 * Represents any fraction of energy (including whole and partial MWh).
-* Always associated with a EAC ID.
+* Always associated with an EAC ID.
 * Assigned a unique **GC ID** for every record, down to a single watt-hour (Wh).
 
 ## **Assignment of REC IDs and GC IDs**
@@ -43,9 +43,9 @@ This specification outlines the methodology for assigning EAC IDs and GC IDs to 
 ### **GC ID Structure**
 
 * **Format:**\
-  `GC[Project_ID]-[`Timestamp`]-[EAC_ID]-[Energy_ID]`
+  `GC[Project_ID]-[Timestamp]-[EAC_ID]-[Energy_ID]`
 * **Example:**\
-  `GC101-`20240928T153045Z`-20003-0750000`
+  `GC101-20240928T153045Z-20003-0750000`
 
 ### **Components**
 
