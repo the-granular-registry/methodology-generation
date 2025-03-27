@@ -1,12 +1,12 @@
-# Emissions Data Selection Process
+# Operating MER Data Selection Process
 
 ## **Objective**
 
-This specification outlines the methodology for combining each PEC with the Marginal Emissions Rate (MER) based on the location and hour of generation. The goal is to calculate the carbon impact for each PEC by multiplying the energy amount by the corresponding MER. The registry automates the selection of the most accurate and appropriate MER data sources to eliminate complexity and bias for corporate renewable energy buyers.
+This specification outlines the methodology for selecting the Operating Marginal Emissions Rate (OMER) based on the location and hour of generation. The goal is to assign OMER for each GC to be used in the Long Run MER calculation. The registry automates the selection of the most accurate and appropriate MER data sources to eliminate complexity and bias for corporate renewable energy buyers.
 
 ## **Registry's Emissions Data Selection Process**
 
-**PEC Alliance Advisory Board Role**
+**Granular Registry Foundation Advisory Board Role**
 
 * **Responsibilities:**
   * Evaluate and select the most accurate and appropriate MER data sources for each region.
@@ -25,7 +25,7 @@ This specification outlines the methodology for combining each PEC with the Marg
 **Regional Selection**
 
 * **Reference Table:**
-  * The registry maintains a reference table mapping each region to its selected MER data provider.
+  * The registry maintains a reference table mapping each region to its selected OMER data provider.
 *   **Example Table Format:**
 
     <table><thead><tr><th width="139">Region</th><th width="110">Data Provider</th><th width="139">Model Type</th><th>Time Resolution</th><th>Locational Resolution</th></tr></thead><tbody><tr><td>India - West</td><td>WattTime</td><td>Statistical</td><td>Hourly</td><td>Zonal</td></tr><tr><td>USA - PJM</td><td>REsurety</td><td>Dispatch</td><td>Hourly</td><td>Nodal</td></tr><tr><td>Germany</td><td>UNFCCC</td><td>Heat Rate</td><td>Annual</td><td>Country</td></tr></tbody></table>
@@ -89,7 +89,7 @@ Focus on the immediate impact of changes in electricity demand or supply on emis
 
 * **Hourly:**
   * **Preference:**\
-    High time resolution aligns with the hourly granularity of PECs.
+    High time resolution aligns with the hourly granularity of GCs.
   * **Benefits:**
     * Captures temporal variations in emissions rates.
     * More accurate reflection of grid dynamics.
@@ -98,7 +98,7 @@ Focus on the immediate impact of changes in electricity demand or supply on emis
     May be considered when hourly data is unavailable.
   * **Limitations:**
     * Masks short-term fluctuations.
-    * Less precise for calculating carbon impact of specific PECs.
+    * Less precise for calculating carbon impact of specific GCs.
 
 ## **Locational Resolution**
 
@@ -124,7 +124,7 @@ Focus on the immediate impact of changes in electricity demand or supply on emis
   * **Description:**\
     National average emissions rates.
   * **Limitations:**
-    * Too coarse for accurate PEC-level calculations.
+    * Too coarse for accurate GC-level calculations.
     * Not recommended for hourly REC registries.
 
 ## **Data Availability**
@@ -180,7 +180,7 @@ Focus on the immediate impact of changes in electricity demand or supply on emis
 **Emissions Data Updates**
 
 * **Regular Updates:**
-  * Update MER data as new releases become available.
+  * Update OMER data as new releases become available.
   * Communicate significant changes or updates to users.
 * **Change Management:**
   * Document changes in data sources or methodologies.
@@ -195,7 +195,7 @@ Focus on the immediate impact of changes in electricity demand or supply on emis
 **Data Quality Checks**
 
 * **Validation Procedures:**
-  * Cross-reference MER data with historical trends.
+  * Cross-reference OMER data with historical trends.
   * Check for anomalies or discrepancies.
 * **Audit Trails:**
   * Maintain logs of data retrieval and calculation processes.
@@ -214,23 +214,23 @@ Focus on the immediate impact of changes in electricity demand or supply on emis
 **System Architecture**
 
 * **Data Integration Layer:**
-  * APIs or data pipelines to ingest MER data from providers.
+  * APIs or data pipelines to ingest OMER data from providers.
 * **Calculation Engine:**
-  * Automated system to perform carbon impact calculations upon PEC issuance or data updates.
+  * Automated system to perform carbon impact calculations upon GC issuance or data updates.
 
 ***
 
 ### **Data Storage and Reporting**
 
 * **Record Keeping:**
-  * Store calculated carbon impacts alongside PEC records.
+  * Store calculated carbon impacts alongside GC records.
   * Maintain audit trails for data sources and calculation steps.
 * **User Access:**
-  * Provide users with access to carbon impact data for their PECs.
+  * Provide users with access to carbon impact data for their GCs.
   * Include details on the MER data source and calculation methodology.
 
 ***
 
 ## **Conclusion**
 
-Integrating MER with PECs enhances the value proposition of the hourly REC registry by providing precise, actionable carbon impact data. By automating data source selection and adhering to rigorous standards, the registry ensures accuracy, transparency, and reliability for corporate renewable energy buyers and other stakeholders.
+Integrating MER with GCs enhances the value proposition of the hourly REC registry by providing precise, actionable carbon impact data. By automating data source selection and adhering to rigorous standards, the registry ensures accuracy, transparency, and reliability for corporate renewable energy buyers and other stakeholders.

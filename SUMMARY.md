@@ -16,8 +16,9 @@
 
 ## CARBON IMPACT
 
-* [Emissions Data Selection Process](carbon-impact/emissions-data-selection-process.md)
-* [Emissions Source Hierarchy](carbon-impact/emissions-source-hierarchy.md)
+* [Assigning Long Run Marginal Emissions Rate](carbon-impact/assigning-long-run-marginal-emissions-rate.md)
+* [Operating MER Data Selection Process](carbon-impact/emissions-data-selection-process.md)
+* [Operating MER Source Hierarchy](carbon-impact/emissions-source-hierarchy.md)
 * [Calculation Methodology](carbon-impact/calculation-methodology.md)
 
 ## OTHER ATTRIBUTES

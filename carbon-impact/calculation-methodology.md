@@ -1,8 +1,12 @@
+---
+hidden: true
+---
+
 # Calculation Methodology
 
 ## **Overview**
 
-Each PEC represents a specific quantity of carbon-free energy generated at a particular location and time. By associating each PEC with the corresponding MER, the registry enables the calculation of the carbon impact (emissions avoided) for that specific quantity of energy.
+Each GC represents a specific quantity of carbon-free energy generated at a particular location and time. By associating each GC with the corresponding MER, the registry enables the calculation of the carbon impact (emissions avoided) for that specific quantity of energy.
 
 **Carbon Impact Calculation Formula:**
 
@@ -18,6 +22,6 @@ The MER reflects the emissions rate of the marginal unit on the grid at the time
 
 **Example:**
 
-* **PEC Energy:** 0.5 MWh
+* **GC Energy:** 0.5 MWh
 * **MER:** 400 kg CO₂e/MWh
 * **Carbon Impact:** $$0.5×400=200 kg CO₂e$$
