@@ -21,6 +21,10 @@
 * [Operating MER Source Hierarchy](carbon-impact/emissions-source-hierarchy.md)
 * [Calculation Methodology](carbon-impact/calculation-methodology.md)
 
+***
+
+* [Build Margin](build-margin.md)
+
 ## OTHER ATTRIBUTES
 
 * [Additionality Indicators](other-attributes/additionality-indicators.md)
