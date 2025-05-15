@@ -1,5 +1,16 @@
 # Build Margin
 
+## Definition & Importance
+
+**Build‑Margin** represents the _long‑run_ marginal emissions intensity of the grid. It is calculated as the generation‑weighted average CO₂e‑per‑MWh of **newly built or credibly planned** power‑plant capacity that would have generated, or will generate, in the absence of the project under study. In the GHG Protocol’s _combined‑margin_ framework, BM pairs with the _Operating Margin (OM)_ to capture both short‑run dispatch effects and long‑run capacity‑planning effects.
+
+### Why BM Matters for Carbon Impact Accounting
+
+* **Structural signal** – BM reflects the carbon characteristics of _capacity additions_, not just moment‑to‑moment dispatch. A project that displaces future fossil builds can have a higher impact than one that merely displaces existing low‑carbon generation.
+* **Technology differentiation** – Hourly BM series expose when zero‑carbon resources compete against each other (e.g., overlapping wind) versus when they offset high‑carbon peakers. This granularity makes avoided‑emissions claims more credible.
+* **Policy relevance** – Many renewable‑energy credit (REC) markets and impact accounting standards (e.g., RE100 Impact, EnergyTag, Voluntary Carbon Market methodologies) now encourage or require combined‑margin approaches. Accurate BM factors are therefore pivotal for registry‑grade certificate issuance.
+* **Investment signaling** – Investors use BM‑adjusted avoided‑emissions metrics to rank projects and direct capital toward technologies with the greatest long‑term decarbonisation leverage.
+
 ## Adjusting Prior‑Year Hourly Build‑Margin (BM) Data for Future‑Year Applications
 
 ### Introduction
