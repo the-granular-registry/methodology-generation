@@ -11,7 +11,7 @@
 * [Meter Data Quality Checks](process/meter-data-quality-checks.md)
 * [Split Meter Data](process/split-meter-data/README.md)
   * [Assign EAC IDs and GC IDs](process/split-meter-data/assign-eac-ids-and-pec-ids.md)
-* [Splitting GCs into Smaller Quantities](process/splitting-pecs-into-smaller-quantities.md)
+  * [Splitting GCs into Smaller Quantities](process/splitting-pecs-into-smaller-quantities.md)
 * [Project Impact Report](process/project-impact-report.md)
 
 ## CARBON IMPACT
