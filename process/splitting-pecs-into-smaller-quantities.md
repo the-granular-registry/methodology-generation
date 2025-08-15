@@ -2,7 +2,7 @@
 
 ## **Objective**
 
-To enable end-users to split GCs into smaller quantities of energy down to the watt-hour. This process involves canceling the parent GC and issuing multiple child GCs, ensuring that the sum of the energy for the child GCs matches the value of the parent GC.&#x20;
+To enable end-users to split GCs into smaller quantities of energy down to the watt-hour. This process involves canceling the parent GC and issuing multiple child GCs, ensuring that the sum of the energy for the child GCs matches the value of the parent GC.
 
 ***
 
