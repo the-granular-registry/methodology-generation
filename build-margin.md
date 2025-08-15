@@ -1,6 +1,6 @@
 # Build Margin
 
-## Definition & Importance
+## Introduction
 
 **Build‑Margin** represents the _long‑run_ marginal emissions intensity of the grid. It is calculated as the generation‑weighted average CO₂e‑per‑MWh of **newly built or credibly planned** power‑plant capacity that would have generated, or will generate, in the absence of the project under study. In the GHG Protocol’s _combined‑margin_ framework, BM pairs with the _Operating Margin (OM)_ to capture both short‑run dispatch and long‑run capacity‑planning effects.
 
