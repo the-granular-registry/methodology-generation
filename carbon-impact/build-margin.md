@@ -86,3 +86,4 @@ Assign BMm(h)2023 GWBM\_{m(h)}^{2023\\,\text{GW\}} to each 2024 hour _h_, prod
 * ClimateTRACE v2024‑01 ERCOT nodal BM dataset.
 * Clean Incentive Granular Registry – Methodology v2.1.
 * GHG Protocol **Project Accounting Guidelines** (§ B.2 Combined Margin).
+* RE100
