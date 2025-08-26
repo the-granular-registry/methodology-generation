@@ -12,7 +12,7 @@ This specification outlines the methodology for assigning EAC IDs and GC IDs to 
 * Assigned a unique **EAC ID**.
 * Can be composed of whole, remainder, and filler energy records that sum to 1.0 MWh.
 
-**Power Emissions Certificate (GC):**
+**Granular Certificate (GC):**
 
 * Represents any fraction of energy (including whole and partial MWh).
 * Always associated with a EAC ID.

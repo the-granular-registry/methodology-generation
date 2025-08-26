@@ -56,4 +56,4 @@ For CFE generation, power consumption is excluded from the process. All negative
 
 * **Verify data source and reliability:** Ensure that the data is coming from a reliable source and that any transformations or pre-processing steps are documented and traceable.
 
-Documenting these data quality checks in the methodology ensures transparency of the PEC registry.
+Documenting these data quality checks in the methodology ensures transparency of the GC registry.
