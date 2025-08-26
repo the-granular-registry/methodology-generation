@@ -1,8 +1,8 @@
 # Additionality Indicators
 
-Assessing additionality in the renewable energy industry is complex and often debated. PECs will include essential contextual and project-specific information to support stakeholders in evaluating additionality. This transparency allows stakeholders to determine the most important criteria and identify PECs that align with their sustainability values.
+Assessing additionality in the renewable energy industry is complex and often debated. GCs will include essential contextual and project-specific information to support stakeholders in evaluating additionality. This transparency allows stakeholders to determine the most important criteria and identify GCs that align with their sustainability values.
 
-## Additionality Information included for all PECs:
+## Additionality Information included for all GCs:
 
 * **Project Age/Vintage:** The year the project commenced operations, providing insight into the project's lifecycle and alignment with current technological advancements.
 * **Project Contractual Status:** Information on whether the project is under a PPA, repowering contract, or an EAC agreement, indicating long-term commitments to renewable energy generation.

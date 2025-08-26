@@ -6,12 +6,12 @@ hidden: true
 
 The process will follow a few key steps to ensure seamless interaction and avoid double counting:
 
-1. **Renewable operators submit data to the PEC registry:** The renewable operator would send hourly generation data and the associated REC information to the PEC registry, similar to submitting traditional RECs to receive hourly RECs.
-2. **EAC Retirement:** To ensure that the environmental attributes of renewable energy generation are not double counted, the traditional RECs would be retired within the PEC registry. This step helps maintain the distinct value of the PECs and ensures that both instruments (RECs and PECs) do not claim the same environmental benefits.
-3. **PEC issuance:** With the retirement of traditional RECs, the PEC registry would then issue new PECs based on the locational marginal emissions data and the actual carbon impact of renewable energy generation.
-4. **PEC Transfer to Offtaker:** The newly issued PECs would be transferred to the offtaker (corporate buyer), who can then use these certificates to offset their Scope 2 impact-based emissions
+1. **Renewable operators submit data to the GC registry:** The renewable operator would send hourly generation data and the associated REC information to the GC registry, similar to submitting traditional RECs to receive hourly RECs.
+2. **EAC Retirement:** To ensure that the environmental attributes of renewable energy generation are not double counted, the traditional RECs would be retired within the GC registry. This step helps maintain the distinct value of the GCs and ensures that both instruments (RECs and GCs) do not claim the same environmental benefits.
+3. **GC issuance:** With the retirement of traditional RECs, the GC registry would then issue new GCs based on the locational marginal emissions data and the actual carbon impact of renewable energy generation.
+4. **GC Transfer to Offtaker:** The newly issued GCs would be transferred to the offtaker (corporate buyer), who can then use these certificates to offset their Scope 2 impact-based emissions
 
-This process aligns with the proposals designed by organizations like EnergyTag and others, which aim to create hourly RECs. By integrating PECs with existing REC registries and retirement processes, the environmental attributes of renewable energy can be tracked and verified more effectively, ensuring transparency and credibility in corporate sustainability reporting.
+This process aligns with the proposals designed by organizations like EnergyTag and others, which aim to create hourly RECs. By integrating GCs with existing REC registries and retirement processes, the environmental attributes of renewable energy can be tracked and verified more effectively, ensuring transparency and credibility in corporate sustainability reporting.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 

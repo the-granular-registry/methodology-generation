@@ -4,7 +4,7 @@ hidden: true
 
 # Community Impact and Social Justice
 
-We integrate social equity and community benefits into PECs to ensure CFE projects deliver broader social value. Our approach encompasses a comprehensive matrix to quantify the following attributes, promoting social justice, economic inclusion, and equitable development:
+We integrate social equity and community benefits into GCs to ensure CFE projects deliver broader social value. Our approach encompasses a comprehensive matrix to quantify the following attributes, promoting social justice, economic inclusion, and equitable development:
 
 * **Community Investment:** Projects must demonstrate a significant investment in local communities, fostering job creation and economic opportunities. Priority is given to initiatives that support underrepresented and marginalized groups. Metrics may include the number of local jobs created, investment in local infrastructure, and support for community programs.
 * **Equitable Access:** We ensure that renewable energy's benefits, such as reduced energy costs and improved air quality, reach all communities. Special focus is given to historically underserved or disproportionately affected areas. Key indicators include the percentage of renewable energy directed to low-income households and improvements in local environmental conditions.

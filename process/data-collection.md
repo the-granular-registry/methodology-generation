@@ -1,6 +1,6 @@
 # Data Collection
 
-This specification outlines the requirements and process for receiving hourly interval meter generation data from registered producers as part of the PEC registry's monthly or quarterly submission cycle.&#x20;
+This specification outlines the requirements and process for receiving hourly interval meter generation data from registered producers as part of the GC registry's monthly or quarterly submission cycle.&#x20;
 
 ## 1. **Submission Frequency**
 
@@ -16,7 +16,7 @@ This specification outlines the requirements and process for receiving hourly in
   * `Timestamp` – in ISO 8601 format (e.g., `2024-01-01T00:00:00Z`)
   * `Generation (MWh)` – positive values for generation, negative for consumption
   * `Meter_ID` – unique identifier for the meter
-  * `PEC Project_ID` – unique identifier for the project, consistent with the onboarding metadata
+  * `GC Project_ID` – unique identifier for the project, consistent with the onboarding metadata
 * **Time zone:** All timestamps must be provided in **UTC** unless otherwise specified in the onboarding metadata.
 
 ## 3. **Submission Process**

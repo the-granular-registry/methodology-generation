@@ -79,7 +79,7 @@ See detailed definition in 1.2 Scheme Configurations.&#x20;
 
 ## EAC Issuing Body&#x20;
 
-An organization responsible for the administration of the existing EAC Scheme within a Domain for an Energy Carrier, that operates regardless of any interrelationship with PECA.&#x20;
+An organization responsible for the administration of the existing EAC Scheme within a Domain for an Energy Carrier, that operates regardless of any interrelationship with the GC Administrator (GCA).&#x20;
 
 ## EAC Consumption Verifier&#x20;
 
